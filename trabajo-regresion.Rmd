@@ -9,6 +9,7 @@ Apellidos:
 ```{r preliminares}
 ## cargamos los paquetes dplyr, ggplot2
 ## iniciamos
+## 
 ```
 
 # Introducción
